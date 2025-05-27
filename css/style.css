@@ -4348,3 +4348,21 @@ body {
 	  display: inline-block;
 	}
   }
+
+
+  /* TITOLI HERO OTTIMIZZATI PER TABLET */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .page-hero .hero-content h1,
+  .page-hero-content h1,
+  .main-heading {
+    font-size: 36px !important;
+    margin-top: 140px !important;
+  }
+
+  .page-hero .hero-content p,
+  .page-hero-content p,
+  .sub-heading {
+    font-size: 16px !important;
+    margin-bottom: 16px;
+  }
+}
