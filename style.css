@@ -4380,3 +4380,20 @@ body {
     margin-bottom: 10px;
   }
 }
+
+
+/* ==========================================================================
+   RESPONSIVE FIX: Tablet view (768px–1024px)
+   Sposta il contenuto della hero section (.slider-caption) più in basso
+   per evitare la sovrapposizione del titolo <h1> con la navbar fissa.
+   Applica solo su dispositivi tablet in modalità landscape o portrait.
+   ========================================================================== */
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .slider-caption {
+    padding-top: 160px !important; /* Spazio sufficiente sotto la navbar */
+  }
+
+  .slider-caption .main-heading {
+    font-size: 36px !important; /* Adatta la dimensione del titolo per leggibilità */
+  }
+}
