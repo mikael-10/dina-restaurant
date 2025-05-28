@@ -4367,3 +4367,16 @@ body {
   }
 }
 
+/* FIX FOR TABLET - Avoid H1 overlapping with navbar */
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .slider-caption .main-heading {
+    margin-top: 160px !important;
+    font-size: 36px !important;
+    line-height: 1.2em;
+  }
+
+  .slider-caption .sub-heading {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+}
