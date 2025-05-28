@@ -4399,3 +4399,25 @@ body {
   }
 }
 
+/* ==========================================================================
+   RESPONSIVE FIX – TABLET (768px–1024px)
+   Risolve la sovrapposizione del titolo principale (h1.main-heading)
+   con la navbar nelle sezioni hero delle pagine. Forza un'altezza minima
+   per il contenitore slider e sposta il contenuto verso il basso.
+   Compatibile solo con visualizzazione tablet (portrait e landscape).
+   ========================================================================== */
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .slider-post {
+    min-height: 400px !important; /* Previene che il titolo venga tagliato o sovrapposto */
+  }
+
+  .slider-caption {
+    padding-top: 180px !important; /* Sposta il blocco titolo sotto la navbar */
+  }
+
+  .slider-caption .main-heading {
+    font-size: 34px !important; /* Adatta la dimensione del titolo su tablet */
+    line-height: 1.2;
+  }
+}
+
