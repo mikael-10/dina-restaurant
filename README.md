@@ -10,8 +10,17 @@ Built using HTML, CSS, Bootstrap, and jQuery, the project includes multiple page
 - Bootstrap 4  
 - jQuery  
 
-📷 **Screenshot**  
+## 📷Screenshot
+
 ![Dina Restaurant Screenshot](images/dina-restaurant.jpg)
+*A preview of the home page of the Dina Restaurant website.*
+
+## ✅ Features
+- Multi-page structure: Home, About Us, Menu, Team, Reservation, Contact
+- Mobile-first responsive layout
+- Interactive hamburger menu for mobile
+- Contact info and social media integration
+- Smooth user experience with clean UI
 
 🔗 **Live Demo**  
 👉 [Visit the Site](https://mikael-10.github.io/dina-restaurant)
