@@ -1,21 +1,22 @@
 # 🍽️ Dina Restaurant – Responsive Website
 
+🧾 **Description**  
 A fully responsive website for a fine-dining restaurant.  
-Built with HTML, CSS, Bootstrap, and jQuery, the site includes multiple pages: Home, About Us, Menu, Team, Reservation, and Contact.
+Built using HTML, CSS, Bootstrap, and jQuery, the project includes multiple pages: Home, About Us, Menu, Team, Reservation, and Contact. It’s optimized for desktop and mobile viewports.
 
-## 🔗 Live Demo
-👉 [Visit the Site](https://mikael-10.github.io/dina-restaurant)
+🔧 **Technologies Used**
+- HTML5  
+- CSS3  
+- Bootstrap 4  
+- jQuery  
 
-## 💻 Screenshot
+📷 **Screenshot**  
 ![Dina Restaurant Screenshot](images/dina-restaurant.jpg)
 
-## 🛠️ Technologies Used
-- HTML5
-- CSS3
-- Bootstrap 4
-- jQuery
+🔗 **Live Demo**  
+👉 [Visit the Site](https://mikael-10.github.io/dina-restaurant)
 
-## 📁 Project Structure
+📂 **Project Structure**
 - `index.html` → Homepage  
 - `about-us.html` → About Us  
 - `menu-2-col.html` → Menu  
@@ -25,7 +26,5 @@ Built with HTML, CSS, Bootstrap, and jQuery, the site includes multiple pages: H
 - `style.css` → Styling  
 - `/images/` → Images folder
 
----
-
-📝 This project is part of my professional portfolio.  
-📬 For contact: [LinkedIn](https://www.linkedin.com/) | [Email](mailto:contact@example.com)
+📩 **Contact**  
+[LinkedIn](https://www.linkedin.com/) | [Email](mailto:contact@example.com)
