@@ -27,7 +27,7 @@ Built using HTML, CSS, Bootstrap, and jQuery, the project includes multiple page
 
 📂 **Project Structure**
 - `index.html` → Homepage  
-- `about-us.html` → About Us  
+- `about-us.html` → About Us 
 - `menu-2-col.html` → Menu  
 - `team-2-cols.html` → Team  
 - `reservation.html` → Reservation  
