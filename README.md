@@ -18,7 +18,7 @@ Built using HTML5, CSS3, Bootstrap 4, and jQuery, the project includes multiple 
 - Smooth user experience with clean UI
 
 📷 **Screenshot**  
-![Dina Restaurant Screenshot](image/dina-restaurantImage)  
+![Dina Restaurant Screenshot](image/dina-restaurantImage.png)  
 *A preview of the home page of the Dina Restaurant website.*
 
 🔗 **Live Demo**  
