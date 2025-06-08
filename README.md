@@ -25,7 +25,8 @@ It was built with a strong focus on layout consistency, mobile-first responsiven
 
 ## 📷 Screenshot
 
-![Dina Restaurant Website Preview](https://raw.githubusercontent.com/mikael-10/dina-restaurant/main/assets/img/projects/project2.webp)  
+![Dina Restaurant Website Preview](https://raw.githubusercontent.com/mikael-10/dina-restaurant/main/assets/img/projects/project2.webp) 
+![Dina Screenshot](https://raw.githubusercontent.com/mikael-10/portfolio/main/assets/img/projects/dina_img_RD/dina-preview.webp)
 *A visual preview of the homepage showing a modern and responsive design.*
 
 ---
